@@ -1,0 +1,9 @@
+body{
+    background-color:burlywood;
+}
+
+.container-fluid{
+    display: grid;
+    text-align: center;
+    margin: 20  px;
+}
